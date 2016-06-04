@@ -1,4 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 Empty repository is created ;-)
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+working dir = all files in folder on hd
+repository = all files that will be managed bit git
+staging area = files on hd that will be moved to the repository
 
+    
