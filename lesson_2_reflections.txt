@@ -6,4 +6,13 @@ working dir = all files in folder on hd
 repository = all files that will be managed bit git
 staging area = files on hd that will be moved to the repository
 
-    
+How can you use the staging area to make sure you have one commit per logical change?
+only check things into staging related to a logical change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When making significant changes and not knowing what route to take. This is a way of running both option in parallal.
+
+How do the diagrams help you visualize the branch structure?
+makes it easy to see non-linear history
+
+
